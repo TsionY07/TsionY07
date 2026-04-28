@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tsion</h1>
 
-<!--
-**TsionY07/TsionY07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Engineering Student | MERN Stack Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 3rd year Software Engineering student  
+- 🌐 MERN Stack learner  
+- 💡 Passionate about building real-world apps  
+
+---
+
+## 🛠️ Tech Stack
+- React / React Native / Expo  
+- JavaScript / Node.js  
+- Express / MongoDB  
+- Git & GitHub  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TsionY07&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/TsionY07
+
+---
+
+⭐ “Building one project at a time.”
